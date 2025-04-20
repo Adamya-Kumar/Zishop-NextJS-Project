@@ -5,6 +5,7 @@
 An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/). Styled with [TailwindCSS](https://tailwindcss.com/). This is one of my portfolio projects, but I would be pleased if these codes helped others, so I published it as an open-source project. Feel free to explore it, and if you need help, ask me. I will respond as soon as possible.
 <p>To support me, please create <strong>Pull request</strong> and give <strong>star⭐</strong> to this repository.<br/>
    I appreciate your support in advance. ❤</p>
+</div>
 
 ## 🚀Getting Started
 1. Sign up in [sanity.io](https://www.sanity.io/) and get `projectId` and `token`
