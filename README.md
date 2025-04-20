@@ -25,6 +25,8 @@ JavaScript  ██████                                                9.
 HTML        ██                                                    3.8%
 CSS         █                                                     2.2%
 
+```
+
 ## 🚀Getting Started
 1. Sign up in [sanity.io](https://www.sanity.io/) and get `projectId` and `token`
 
