@@ -6,6 +6,14 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 <p>To support me, please create <strong>Pull request</strong> and give <strong>star⭐</strong> to this repository.<br/>
    I appreciate your support in advance. ❤</p>
 </div>
+## 🛠 Languages and Technologies Used
+1.React: For building user interfaces.
+2.TypeScript: Provides type safety and modern JavaScript features.
+3.Sanity: Used as the CMS for managing content.
+4.TailwindCSS: A utility-first CSS framework for styling.
+5.JavaScript: For additional scripting needs.
+6.HTML: Markup language for structuring web pages.
+7.CSS: For additional design and styling.
 
 ## 🚀Getting Started
 1. Sign up in [sanity.io](https://www.sanity.io/) and get `projectId` and `token`
