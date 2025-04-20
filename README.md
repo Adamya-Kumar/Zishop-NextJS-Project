@@ -8,30 +8,10 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 
 
 
-<p>
-
-[Technologies](#technologies) •
-[Demo](#demo) •
-[Features](#features) •
-[Pages](#pages) •
-[Getting started](#getting-started) •
-[Contributing](#contributing) •
-[Contact Me](#contact-me)
-  
-</p>
-<img src="/public/images/zishopBanner.png"/>
-</div>
-
-## 🔧Technologies
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindCSS&logoColor=06B6D4)
 
 
 ## ✨Demo
-You can visit and explore the ZiShop template at [ZiShop.vercel.app](https://zishop.vercel.app/).
+You can visit and explore the ZiShop template at [ZiShop.vercel.app](https://zishop.vercel.app/)(work under progess).
 
 ## 🔥Features
 * Using Redux toolkit as state manager
@@ -105,12 +85,6 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-## 💬Contact Me
-  <p>
-    <a href="https://linkedin.com/in/myusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:myemail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  </p>
-  
-  <hr/>
+
   
   <p align="right">(<a href="#top">BACK TO TOP🔝</a>)</p>
