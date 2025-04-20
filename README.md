@@ -6,6 +6,7 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 <p>To support me, please create <strong>Pull request</strong> and give <strong>star⭐</strong> to this repository.<br/>
    I appreciate your support in advance. ❤</p>
 </div>
+
 ## 🛠 Languages and Technologies Used
 1.React: For building user interfaces.
 2.TypeScript: Provides type safety and modern JavaScript features.
