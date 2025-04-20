@@ -6,30 +6,6 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 <p>To support me, please create <strong>Pull request</strong> and give <strong>star⭐</strong> to this repository.<br/>
    I appreciate your support in advance. ❤</p>
 
-
-
-
-
-## ✨Demo
-You can visit and explore the ZiShop template at [ZiShop.vercel.app](https://zishop.vercel.app/)(work under progess).
-
-## 🔥Features
-* Using Redux toolkit as state manager
-* Using [Sanity.io](https://www.sanity.io/) as database
-* Fully responsive
-* Multi-language (EN-FA)
-* Multi-theme (Dark/Light)
-
-## 📃Pages
-* Main (index)
-* Login/SignUp
-* Products List
-* Product Details
-* Cart
-* Favorites
-* About
-<p align="right">(<a href="#top">BACK TO TOP 🔝</a>)</p>
-
 ## 🚀Getting Started
 1. Sign up in [sanity.io](https://www.sanity.io/) and get `projectId` and `token`
 
