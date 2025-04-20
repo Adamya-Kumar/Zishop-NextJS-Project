@@ -7,14 +7,23 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
    I appreciate your support in advance. ❤</p>
 </div>
 
-## 🛠 Languages and Technologies Used
-1.React: For building user interfaces.
-2.TypeScript: Provides type safety and modern JavaScript features.
-3.Sanity: Used as the CMS for managing content.
-4.TailwindCSS: A utility-first CSS framework for styling.
-5.JavaScript: For additional scripting needs.
-6.HTML: Markup language for structuring web pages.
-7.CSS: For additional design and styling.
+## Languages Used
+
+| Language      | Percentage | Visualization                                   |
+|---------------|------------|------------------------------------------------|
+| TypeScript    | 84.4%      | ![TypeScript](https://img.shields.io/badge/-84.4%25-2b7489?style=flat-square&color=2b7489) |
+| JavaScript    | 9.6%       | ![JavaScript](https://img.shields.io/badge/-9.6%25-f1e05a?style=flat-square&color=f1e05a) |
+| HTML          | 3.8%       | ![HTML](https://img.shields.io/badge/-3.8%25-e34c26?style=flat-square&color=e34c26) |
+| CSS           | 2.2%       | ![CSS](https://img.shields.io/badge/-2.2%25-563d7c?style=flat-square&color=563d7c) |
+
+### Languages Visualization
+A graphical representation of the language distribution:
+
+```plaintext
+TypeScript  ██████████████████████████████████████████████████   84.4%
+JavaScript  ██████                                                9.6%
+HTML        ██                                                    3.8%
+CSS         █                                                     2.2%
 
 ## 🚀Getting Started
 1. Sign up in [sanity.io](https://www.sanity.io/) and get `projectId` and `token`
